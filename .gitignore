@@ -1,1 +1,12 @@
+.DS_Store
+.ipynb_checkpoints/
+chapter02/.ipynb_checkpoints/
+chapter03/.ipynb_checkpoints/
+chapter04/.ipynb_checkpoints/
+chapter05/.ipynb_checkpoints/
+chapter06/.DS_Store
+chapter06/.ipynb_checkpoints/
+chapter07/.ipynb_checkpoints/
+chapter07/dump.rdb
 chapter07/artist.json
+dump.rdb
