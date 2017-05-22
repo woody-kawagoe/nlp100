@@ -7,7 +7,9 @@
 <p>name:{{name}}</p>
 <p>aliases_name:{{aliases_name}}</p>
 <p>tags_value:{{tags_value}}</p>
-% for a in result:
+% for a in sorted(result, key=lambda x:x['id']):
 <h1>{{a['name']}}</h1>
-<p>{{a}}</p>
+%   for k in a.keys():
+<p>{{k}}:{{a[k]}}</p>
+%   end
 % end
