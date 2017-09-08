@@ -6,6 +6,7 @@ chapter07/dump.rdb
 chapter07/artist.json
 chapter08/rt-polaritydata/
 chapter09/*.txt
+chapter09/*.csv
 chapter10/*.txt
 chapter10/*.csv
 dump.rdb
